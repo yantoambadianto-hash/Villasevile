@@ -1,0 +1,36 @@
+{
+  "hero_animations_during_entrance": 7,
+  "width_checks": [
+    {
+      "width": 320,
+      "overflow": false,
+      "title": "La dolce vita,\nat your table."
+    },
+    {
+      "width": 375,
+      "overflow": false,
+      "title": "La dolce vita,\nat your table."
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "title": "La dolce vita,\nat your table."
+    },
+    {
+      "width": 1024,
+      "overflow": false,
+      "title": "La dolce vita,\nat your table."
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "title": "La dolce vita,\nat your table."
+    }
+  ],
+  "dessert_cards": 3,
+  "mobile_nav_expanded": "true",
+  "reservation_demo_works": true,
+  "reduced_motion_animations": 0,
+  "javascript_errors": [],
+  "network": "External images/fonts blocked for isolated functional testing."
+}
